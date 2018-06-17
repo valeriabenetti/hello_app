@@ -1,5 +1,7 @@
 {
   "name": "hello_app",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "globby": "^8.0.1"
+  }
 }
